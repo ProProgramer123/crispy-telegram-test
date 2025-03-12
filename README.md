@@ -34,3 +34,5 @@
    
    <sub>`index.js` will automatically build the website if the ./dist directory doesn't exist. If you make any changes to the website, either delete ./dist and run index.js or run "npm run bstart", which will rebuild the site then run index.js</sub>
 </div>
+
+Being for real, trying to fix it, lol.
